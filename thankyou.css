@@ -7,3 +7,23 @@ body {
     left: 20%;
     font-size: 20px;
 }
+
+a {
+    color: black;
+   background-color: #c8b6ff;
+   text-decoration: none;
+   width: 100%;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+
+h1 {
+    margin-top: -50px;
+}
+
+.close {
+    margin-bottom: 100px;
+}
+

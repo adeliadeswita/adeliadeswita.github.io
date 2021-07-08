@@ -15,8 +15,6 @@ li {
     font-size: 25px;
     float: left;
     padding: 30px 40px;
-    font-weight: bold;
-    color: #c8b6ff;
   }
 
 h1 {
@@ -96,3 +94,36 @@ img {
     margin-bottom: 20px;
     text-align: center;
 }
+
+.end {
+    margin-bottom: 200px;
+}
+
+.closing {
+    background-color: #c8b6ff;
+    margin-top: 100px;
+  }
+
+.footer {
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: grey;
+  margin-top: -100px;
+}
+
+.us {
+  font-family: 'Archivo', sans-serif;
+}
+
+
+.desc {
+    margin-left: 0px;
+    margin-right: -190px;
+    text-align: center;
+}
+
+.item {
+    margin-top: 90px;
+    margin-right: 20px;
+  }
