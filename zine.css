@@ -25,15 +25,15 @@ li {
     left: 50%;
     font-size: 80px;
     font-family: 'Shrikhand', cursive;
-    color:#b8c0ff;
+    color:#b185db;
     }
     
 .by-you {
       position: absolute;
       transform: translate(-50%, -80%);
-      top: 50%;
+      top: 48%;
       left: 50%;
-      font-size: 30px;
+      font-size: 35px;
       font-family: 'Concert One', cursive;
       color:#b8c0ff;
       } 
@@ -140,7 +140,7 @@ table {
   
 .closing {
     background-color: #c8b6ff;
-    margin-top: -100px;
+    margin-top: 100px;
   }
 
 .footer {
