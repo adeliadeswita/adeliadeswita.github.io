@@ -1,0 +1,98 @@
+li {
+    list-style: none;
+    float: left;
+    padding: 33px 20px;
+}
+
+.header {
+    height: 90px;
+    font-family: 'Archivo', sans-serif;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  
+.header-logo {
+    font-size: 25px;
+    float: left;
+    padding: 30px 40px;
+    font-weight: bold;
+    color: #c8b6ff;
+  }
+
+h1 {
+    font-family: 'Archivo', sans-serif;
+    font-size: 60px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.creator {
+    margin-top: -20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: 'Montserrat', sans-serif;
+    color: grey;
+}
+
+.content {
+    margin-top: -15px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 60px;
+    color: grey;
+}
+
+p {
+    font-family: 'Archivo', sans-serif;
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+body {
+    background-image: url("img/background-8.jpg");
+}
+
+
+table {
+   margin: 95px;
+}
+
+.next{
+    margin-top: 100px;
+    text-align: right;
+}
+
+.next-name {
+    font-family: 'Archivo', sans-serif;
+    text-align: right;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.creator-next {
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+    color: grey;
+    margin-bottom: 100px;
+    margin-top: -20px;
+}
+
+
+.click-poetry {
+    font-size: 30px;
+    text-align: right;
+    font-family: 'Shrikhand', cursive;
+    margin-bottom: -20px;
+    color:black;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+img {
+    margin-left: 200px;
+    margin-top: -50px;
+    margin-bottom: 20px;
+    text-align: center;
+}

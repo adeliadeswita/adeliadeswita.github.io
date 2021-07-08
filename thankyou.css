@@ -1,0 +1,9 @@
+body {
+    background-image: url("img/background-8.jpg");
+    text-align: center;
+    font-family: 'Archivo', sans-serif;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    font-size: 20px;
+}

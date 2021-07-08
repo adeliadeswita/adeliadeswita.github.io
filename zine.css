@@ -1,0 +1,157 @@
+li {
+    list-style: none;
+    float: left;
+    padding: 33px 20px;
+}
+
+.header {
+    height: 90px;
+    font-family: 'Archivo', sans-serif;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  
+.header-logo {
+    font-size: 25px;
+    float: left;
+    padding: 30px 40px;
+    font-weight: bold;
+    color: #c8b6ff;
+  }
+
+.name {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 30%;
+    left: 50%;
+    font-size: 80px;
+    font-family: 'Shrikhand', cursive;
+    color:#b8c0ff;
+    }
+    
+.by-you {
+      position: absolute;
+      transform: translate(-50%, -80%);
+      top: 50%;
+      left: 50%;
+      font-size: 30px;
+      font-family: 'Concert One', cursive;
+      color:#b8c0ff;
+      } 
+
+body {
+    background-image: url("img/background-8.jpg");
+  }
+
+.explore {
+    font-family: 'Montserrat', sans-serif;
+  }
+.copy {
+    font-family: 'Montserrat', sans-serif;
+  }
+.contents {
+    display:flex;
+  }
+.item {
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: grey;
+  }
+
+.about {
+    font-size: 60px;
+    font-family: 'Archivo', sans-serif;
+    font-style: italic;
+  }
+
+table {
+    margin: 95px;
+    margin-top: 120px;
+  }
+
+
+.form {
+    text-align: center;
+    padding: 20px 10px;
+    font-family: 'Archivo', sans-serif; 
+  }
+.box {
+    width: 50%;
+    margin: 10px;
+    padding: 20px;
+}
+
+.poetry-contents {
+  text-align: center;
+  font-family: 'Archivo', sans-serif;
+  margin-top: 100px;
+}
+.art-contents {
+  text-align: center;
+  font-family: 'Archivo', sans-serif;
+}
+.ap-contents {
+  display: flex;
+  margin-left: 200px;
+  margin-right: 50px;
+}
+.art-poetry {
+  padding: 10px;
+  margin: 10px;
+  }
+  .click-poetry {
+    text-align: center;
+    color: black;
+    font-family: 'Archivo', sans-serif;
+  }
+  .creator {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: grey;
+  }
+
+  .submissions {
+    text-align: center;
+    margin-top: 100px;
+  }
+  .submit {
+    font-family: 'Shrikhand', cursive;
+  }
+  .desc-sub {
+    font-family: 'Archivo', sans-serif;
+  }
+
+  .check {
+    font-family: 'Archivo', sans-serif;
+    margin-top: 100px;
+  }
+  
+  .instagram {
+    margin-bottom: 100px;
+    margin-top: 100px;
+    text-align: center;
+  }
+
+  .footer {
+    font-family: 'Archivo', sans-serif;
+    margin-top: -100px;
+  }
+  
+.closing {
+    background-color: #c8b6ff;
+    margin-top: -100px;
+  }
+
+.footer {
+  text-align: center;
+  padding-bottom: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: grey;
+}
+
+.us {
+  font-family: 'Archivo', sans-serif;
+}
+
+
