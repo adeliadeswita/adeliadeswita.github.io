@@ -30,7 +30,7 @@ li {
 .name {
     position: absolute;
     transform: translate(-50%, -50%);
-    top: 30%;
+    top: 40%;
     left: 50%;
     font-size: 80px;
     font-family: 'Shrikhand', cursive;
@@ -40,7 +40,7 @@ li {
 .by-you {
       position: absolute;
       transform: translate(-50%, -80%);
-      top: 48%;
+      top: 52%;
       left: 50%;
       font-size: 35px;
       font-family: 'Concert One', cursive;
