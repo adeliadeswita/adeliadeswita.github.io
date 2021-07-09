@@ -18,6 +18,15 @@ li {
     font-weight: bold;
   }
 
+#carouselExampleControls {
+  width: 600px;
+  height: 600px;
+}
+
+.explore-creator {
+  font-weight: bold;
+}
+
 .name {
     position: absolute;
     transform: translate(-50%, -50%);
@@ -44,9 +53,13 @@ body {
 
 .explore {
     font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-align: center;
   }
 .copy {
     font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-align: center;
   }
 .contents {
     display:flex;
@@ -65,9 +78,12 @@ body {
   }
 
 table {
-    margin: 95px;
+    margin: 150px;
     margin-top: 120px;
   }
+.issue {
+  margin-left: 20px;
+}
 
 
 .form {
@@ -80,19 +96,43 @@ table {
     margin: 10px;
     padding: 20px;
 }
+.title-form {
+  font-family: 'Archivo', sans-serif; 
+  font-weight: bold;
+  font-size: 30px;
+}
+.quest {
+  font-family: 'Archivo', sans-serif; 
+  font-weight: bold;
+  font-size: 20px;
+}
+.desc-form-1 {
+  font-family: 'Archivo', sans-serif; 
+  font-size: 15px;
+}
+.desc-form-2 {
+  font-family: 'Archivo', sans-serif; 
+  font-size: 15px;
+  margin-top: -20px;
+}
 
 .poetry-contents {
   text-align: center;
   font-family: 'Archivo', sans-serif;
   margin-top: 100px;
+  font-size: 20px;
+  font-weight: bold;
 }
 .art-contents {
   text-align: center;
   font-family: 'Archivo', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 30px;
 }
 .ap-contents {
   display: flex;
-  margin-left: 200px;
+  margin-left: 180px;
   margin-right: 50px;
 }
 .art-poetry {
@@ -102,13 +142,18 @@ table {
   .click-poetry {
     text-align: center;
     color: black;
+    font-weight: bold;
     font-family: 'Archivo', sans-serif;
+    font-size: 15px;
+    margin-top: 20px;
   }
 
   .creator {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     color: grey;
+    font-weight: bold;
+    font-size: 12px;
   }
 
   .submissions {
@@ -118,13 +163,28 @@ table {
   .submit {
     font-family: 'Shrikhand', cursive;
   }
-  .desc-sub {
+  .desc-sub-1 {
     font-family: 'Archivo', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 20px;
   }
+  .desc-sub-2 {
+    font-family: 'Archivo', sans-serif;
+    font-size: 15px;
+    margin-top: -15px;
+  }
+.desc-sub-3 {
+  font-family: 'Archivo', sans-serif;
+  font-size: 15px;
+  margin-top: -20px;
+}
 
   .check {
     font-family: 'Archivo', sans-serif;
     margin-top: 100px;
+    font-weight: bold;
+    font-size: 30px;
   }
   
   .instagram {
@@ -148,10 +208,15 @@ table {
   padding-bottom: 20px;
   font-family: 'Montserrat', sans-serif;
   color: grey;
+  margin-top: -200px;
 }
-
+.copyright {
+  font-size: 15px;
+  font-weight: bold;
+}
 .us {
   font-family: 'Archivo', sans-serif;
+  text-align: center;
 }
 
 
